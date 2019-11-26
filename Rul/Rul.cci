@@ -1,0 +1,9 @@
+VERSION:3 SOURCE_TIMESTAMP:4E2D8863
+NODE:I LEVEL:0 LINE:23 "C:\cvavr2\inc\tiny261.h"
+NODE:I LEVEL:0 LINE:25 "C:\cvavr2\inc\delay.h"
+NODE:V LEVEL:0 LINE:26 "comand -> R2,R3"
+NODE:V LEVEL:0 LINE:27 "adc_data -> R4,R5"
+NODE:M LEVEL:0 LINE:28 "ADC_VREF_TYPE"
+NODE:F LEVEL:0 LINE:31 "adc_isr(void)"
+NODE:F LEVEL:0 LINE:39 "read_adc(unsigned char adc_input)"
+NODE:F LEVEL:0 LINE:58 "main(void)"
